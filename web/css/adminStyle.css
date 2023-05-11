@@ -1,0 +1,63 @@
+.manager{
+    margin-left: 285px;
+}
+.manager h5{
+    background: darkgray;
+    max-width: 50%;
+}
+.product_list{
+    text-align: center; 
+}
+#mytext:hover{
+    background: buttonface;
+    color: #003eff;
+}
+#myform{
+    display: none;
+}
+#myform th{
+    padding-left: 65px;
+    padding-right:  65px;
+}
+#myform td input{
+    border: none;
+    text-align: center;
+}
+.create_product h5{
+    text-align: center;
+}
+#myform_1{
+    display: none;
+}
+#mytext_1:hover{
+    background: buttonface;
+    color: #003eff;
+}
+.inform_first input{
+
+    width: 400px;
+    margin: 30px 50px;
+}
+.inform_second input{
+
+    width: 400px;
+    margin: 30px 50px 30px 88px;
+}
+.inform_third input{
+
+    width: 400px;
+    margin: 30px 50px;
+}
+.third_in {
+    margin-left: 25px;
+}
+#myform_1 span{
+    color: red;
+}
+
+.inform_option{
+    margin: 30px 0;
+}
+.inform_upload{
+    margin: 30px 0 ;
+}
